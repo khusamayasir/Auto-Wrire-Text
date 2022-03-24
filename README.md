@@ -1,4 +1,4 @@
-# Auto-Wrire-Text
+# Auto-Write-Text
 A simple JavaScript project.
 
 You can check here: https://auto-write-text-khusamayasir.netlify.app/
